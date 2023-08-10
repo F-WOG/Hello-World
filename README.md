@@ -7,3 +7,4 @@ I love Pots and Pans
 
 I love Socks and Sandles 
 
+theme: minima
